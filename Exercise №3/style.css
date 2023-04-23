@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: Verdana, Geneva, sans-serif;
+    color: rgba(0, 0, 0, 0.75);
+    background-color: #ffc399;
+    line-height: normal;
+}
+h1 {
+    width: 255px;
+    margin: 0 auto;
+    font-family: "Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 60px;
+}
+.site-header p {
+    width: 255px;
+    margin: 0 auto 26px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px; 
+}
+.site-header img {
+    display: block;
+    margin: 0 auto;
+}
+.container{
+    width: 510px;
+    margin: auto;
+    padding: 0 20px;
+}
+.site-header{
+    min-width: 638px;
+    height: 336px;
+    margin-bottom: 30px;
+    padding-top: 70px;
+    background: no-repeat center url("img/3.png");
+    background-size: cover;
+    color: whitesmoke;
+}
+.site-footer{
+    background-color: rgb(187, 57, 57);
+    color: rgba(255, 255, 255, 0.775);
+    text-align: center;
+    min-width: 550px;
+}
+.site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+}
+h2{
+    border-bottom: 2px outset rgba(0, 0, 0, 0.5);
+    padding-bottom: 5px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    margin-top: -15px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#price-list-base{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+    padding-top: 20px;
+}
+#price-list-vip{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+    padding-top: 20px;
+}
+#price-list-deluxe{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+    padding-top: 20px;
+}
+span{
+    background-color: rgb(187,57,57);
+}
+#header{
+    margin-top: 50px;
+}
+.about-project{
+    text-align: left;
+}
+.project {
+    width: 625px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+}
+.advantages-list{
+    padding: 0;
+    list-style: none;
+}
+.advantages-item {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-left: 20px solid rgb(187,57,57);
+}
+  
